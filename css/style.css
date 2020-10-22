@@ -1,0 +1,44 @@
+/*Estilo GERAIS*/
+.center{
+    text-align: center;
+}
+.justify{
+    text-align: justify;
+}
+
+#menu li{
+    display: inline;
+    padding: 15px;
+}
+#menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#menu li a:hover{
+    color: gray;
+}
+/*Estilo da pagina index.html*/
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+.p-30{
+    padding: 30px;
+}
+.br-50{
+    border-radius: 50%;
+}
+.tm-12{
+    font-size: 20px
+}
+/*Estilo da pagina debate.html*/
+
+/*Estilo da pagina contato.html*/
+.tm-social{
+    width: 50px;
+    height: 50px;
+
+}
