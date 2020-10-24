@@ -25,6 +25,11 @@
     justify-content: center;
     align-items: center;
 }
+.tm-foto{
+    width: 250px;
+    height: 250px;
+
+}
 .p-30{
     padding: 30px;
 }
@@ -34,11 +39,19 @@
 .tm-12{
     font-size: 20px
 }
-/*Estilo da pagina debate.html*/
+/*Estilo da pagina portifolio.html*/
+.tm-porti{
+    width: 250px;
+    height: 250px;
+
+}
 
 /*Estilo da pagina contato.html*/
 .tm-social{
     width: 50px;
     height: 50px;
 
+}
+.p-10{
+    padding: 10px;
 }
